@@ -1,1 +1,27 @@
 # myResume.io
+<!DOCTYPE html>
+<html>
+<head><title>My Resume</title></head>
+
+<body>
+<h1>Savita Patil<h1>
+<p><i><b>Software Test Engineer</b></i></p>
+<p><em>psavita264@gmail.com</em></p>
+<hr>
+<h2><i>Summary</i></h2>
+<p>I have completed mycomputer science engineering in 2020. I do not having experience.Iam searching a job in reputed company.</p>
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEbCIAH1Pz-ig/profile-displayphoto-shrink_200_200/0/1606895670188?e=1669248000&v=beta&t=LuVhqstzeMZR1YtIuf1bqXI174mI39KnZT-AyvG7c5Q">
+<h2><b>Education</b></h2>
+<ul>
+  <li><b>Computer Science and engineering | 2015-2020</b>
+  <p>I have a 62 Aggregate percent in Graduation</p>
+  </li>
+  <li><b> HSC - Maharashtra State Board | 2014-2015 </b>
+  <p>I have a 58.92 percent in HSC. </p>
+  </li>
+</ul>
+
+
+</body>
+</html>
+
